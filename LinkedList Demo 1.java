@@ -82,6 +82,7 @@ public class Baitap {
     public void deleteHead(){
         if(head != null){
             head = head.next;
+            mSize--;
         }
     }
     
@@ -110,6 +111,7 @@ public class Baitap {
                 count ++;
             }
             currentNode.next = null;
+            mSize--;
         }
     }
     
@@ -161,7 +163,7 @@ public class Baitap {
             }
             currentNode.next = currentNode.next.next;
             }
-            
+            mSize--;
         }
     }
     
