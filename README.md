@@ -17,3 +17,4 @@ Các vấn đề cần lưu tâm:
 
 
 to be continue....
+p/s: ĐM đứa nào copy éo ghi nguồn, ok?
