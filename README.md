@@ -7,10 +7,10 @@ Các vấn đề cần lưu tâm:
 - Hàng đợi - Queue
 - Bảng băm - Hash Table
 - Cây
--Thuật toán đệ quy
--Giải thuật sắp xếp
--Giải thuật tìm kiếm
--Bla bla
+- Thuật toán đệ quy
+- Giải thuật sắp xếp
+- Giải thuật tìm kiếm
+- Bla bla
 
 
 
