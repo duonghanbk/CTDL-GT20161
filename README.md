@@ -8,7 +8,9 @@ Các vấn đề cần lưu tâm:
 - Bảng băm - Hash Table
 - Cây
 -Thuật toán đệ quy
--Tìm kiếm nhị phân
+-Giải thuật sắp xếp
+-Giải thuật tìm kiếm
+-Bla bla
 
 
 
@@ -17,4 +19,4 @@ Các vấn đề cần lưu tâm:
 
 
 to be continue....
-p/s: ĐM đứa nào copy éo ghi nguồn, ok?
+
